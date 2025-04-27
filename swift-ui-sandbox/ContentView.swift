@@ -1,4 +1,4 @@
-Aí apresenta cada lágrima canhota olhe//
+//
 //  ContentView.swift
 //  swift-ui-sandbox
 //

@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  swift-ui-sandbox
-//
-//  Created by Filipe Cancio on 27/04/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
